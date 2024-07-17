@@ -3,7 +3,7 @@ entries:
   firstchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-17T11:55:26.355840709Z"
+    created: "2024-07-17T12:18:40.391112682Z"
     description: A Helm chart for Kubernetes
     digest: 35d43cf8e0acadbf7ee1fdff0460f716d462b6ac90581f14c4224010cc32d4b0
     name: firstchart
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://jagdishmodi.github.io/helmchartrepository/firstchart-0.1.1.tgz
     version: 0.1.1
-generated: "2024-07-17T11:55:26.354832308Z"
+  secondchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-17T12:18:40.392012085Z"
+    description: A Helm chart for Kubernetes
+    digest: cc945cd83838c423584f279a1e675a5d866b4bdad49db110e31897f71279d73f
+    name: secondchart
+    type: application
+    urls:
+    - https://jagdishmodi.github.io/helmchartrepository/secondchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-17T12:18:40.390192479Z"
